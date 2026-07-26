@@ -1,0 +1,12 @@
+{
+  "maintenance": false,
+  "popup": {
+    "enabled": true,
+    "title": "Welcome to GoM3U TV!",
+    "message": "Enjoy seamless live TV streaming across all your devices."
+  },
+  "ticker": {
+    "enabled": true,
+    "text": "🔴 Live Streams Updated Daily | Press UP/DOWN to switch channels | Welcome to GoM3U TV!"
+  }
+}
