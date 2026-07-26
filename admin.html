@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GoM3U TV - Admin Dashboard</title>
+    <link rel="stylesheet" href="css/admin.css">
+</head>
+<body class="dark-theme">
+
+    <div class="admin-wrapper">
+        <!-- Sidebar Navigation -->
+        <aside class="admin-sidebar">
+            <h2>GoM3U Admin</h2>
+            <nav>
+                <ul>
+                    <li class="active" data-tab="tab-dashboard">Dashboard</li>
+                    <li data-tab="tab-channels">Channels Manager</li>
+                    <li data-tab="tab-m3u">Import M3U / Playlist</li>
+                    <li data-tab="tab-notices">Notices & Banner</li>
+                    <li data-tab="tab-github">GitHub Sync & Settings</li>
+                </ul>
+            </nav>
+            <button id="logout-btn" class="btn-danger">Logout</button>
+        </aside>
+
+        <!-- Main Content Panel -->
+        <main class="admin-content">
+            
+            <!-- GitHub Config Token Bar -->
+            <div class="github-bar">
+                <span id="gh-status">🔴 GitHub Unlinked</span>
+                <button id="commit-github-btn" class="btn-primary">⚡ Save & Commit to GitHub</button>
+            </div>
+
+            <!-- Tab 1: Dashboard -->
+            <section id="tab-dashboard" class="tab-page">
+                <h1>Analytics Dashboard</h1>
+                <div class="dash-cards">
+                    <div class="card"><h3 id="stat-total-ch">0</h3><p>Total Channels</p></div>
+                    <div class="card"><h3 id="stat-active-ch">0</h3><p>Active Channels</p></div>
+                    <div class="card"><h3 id="stat-groups">0</h3><p>Categories</p></div>
+                </div>
+            </section>
+
+            <!-- Tab 2: Channels Management -->
+            <section id="tab-channels" class="tab-page hidden">
+                <div class="header-actions">
+                    <h1>Manage Channels</h1>
+                    <button id="btn-add-channel" class="btn-primary">+ Add Channel</button>
+                </div>
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Logo</th>
+                            <th>Name</th>
+                            <th>Category</th>
+                            <th>Status</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody id="channels-table-body"></tbody>
+                </table>
+            </section>
+
+            <!-- Tab 3: M3U Parser -->
+            <section id="tab-m3u" class="tab-page hidden">
+                <h1>Bulk Import M3U File / URL</h1>
+                <div class="form-group">
+                    <label>Import from M3U URL:</label>
+                    <input type="text" id="m3u-url-input" placeholder="https://example.com/playlist.m3u">
+                    <button id="btn-import-url" class="btn-primary" style="margin-top:8px;">Import URL</button>
+                </div>
+                <hr>
+                <div class="form-group">
+                    <label>Upload M3U File:</label>
+                    <input type="file" id="m3u-file-input" accept=".m3u,.m3u8">
+                </div>
+            </section>
+
+            <!-- Tab 4: GitHub API Config -->
+            <section id="tab-github" class="tab-page hidden">
+                <h1>GitHub API Configuration</h1>
+                <p>Required to automatically commit changes back to your GitHub repository hosting the site.</p>
+                <div class="form-group">
+                    <label>GitHub Username:</label>
+                    <input type="text" id="gh-user" placeholder="e.g., myusername">
+                </div>
+                <div class="form-group">
+                    <label>Repository Name:</label>
+                    <input type="text" id="gh-repo" placeholder="e.g., gom3u-tv">
+                </div>
+                <div class="form-group">
+                    <label>Personal Access Token (PAT):</label>
+                    <input type="password" id="gh-token" placeholder="ghp_xxxxxxxxxxxx">
+                </div>
+                <button id="save-gh-config" class="btn-primary">Save API Credentials</button>
+            </section>
+
+        </main>
+    </div>
+
+    <!-- Edit Channel Modal -->
+    <div id="channel-modal" class="modal hidden">
+        <div class="modal-content">
+            <h2 id="modal-ch-title">Edit Channel</h2>
+            <input type="hidden" id="edit-ch-id">
+            <input type="text" id="edit-ch-name" placeholder="Channel Name">
+            <input type="text" id="edit-ch-group" placeholder="Category/Group">
+            <input type="text" id="edit-ch-logo" placeholder="Logo Image URL">
+            <input type="text" id="edit-ch-url" placeholder="Stream Source URL (.m3u8/.mp4)">
+            <label><input type="checkbox" id="edit-ch-enabled" checked> Enabled</label>
+            <div style="margin-top:15px; display:flex; gap:10px;">
+                <button id="save-ch-btn" class="btn-primary">Save Channel</button>
+                <button id="close-ch-modal" class="btn-danger">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/github.js"></script>
+    <script src="js/admin.js"></script>
+</body>
+</html>
