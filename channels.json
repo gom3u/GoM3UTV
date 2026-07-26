@@ -14,5 +14,781 @@
     "group": "Movies",
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "enabled": true
+  },
+  {
+    "id": 3,
+    "name": "BTV",
+    "logo": "https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 4,
+    "name": "Sangshod tv",
+    "logo": "https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 5,
+    "name": "SOMOY TV",
+    "logo": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 6,
+    "name": "SOMOY TV-[2]",
+    "logo": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 7,
+    "name": "Ekattor TV",
+    "logo": "https://s4.gifyu.com/images/imagea02f4314e761661d.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 8,
+    "name": "Channel-1",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/2a/Channel_1_Logo_Bangladesh.svg/revision/latest?cb=20260205224305",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 9,
+    "name": "Channel 24",
+    "logo": "https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 10,
+    "name": "INDEPENDENT TV",
+    "logo": "https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 11,
+    "name": "JAMUNA TV",
+    "logo": "https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 12,
+    "name": "Star News",
+    "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 13,
+    "name": "NEWS 24 HD",
+    "logo": "https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 14,
+    "name": "DBC News",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 15,
+    "name": "Ekhon tv",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 16,
+    "name": "ATN NEWS [BD]",
+    "logo": "https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 17,
+    "name": "ATN Bangla",
+    "logo": "https://s6.gifyu.com/images/image27cfa7002786c232.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 18,
+    "name": "NTV",
+    "logo": "https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 19,
+    "name": "RTV",
+    "logo": "https://s4.gifyu.com/images/image29282f9d45a183d6.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 20,
+    "name": "Banglavision",
+    "logo": "https://s4.gifyu.com/images/image5c0bfa6b281be803.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 21,
+    "name": "SATV",
+    "logo": "https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 22,
+    "name": "Ekushey TV",
+    "logo": "https://s4.gifyu.com/images/image534fa27d7683f33d.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 23,
+    "name": "Channel I",
+    "logo": "https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 24,
+    "name": "Deepto TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 25,
+    "name": "Maasranga Tv",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 26,
+    "name": "Channel 9",
+    "logo": "https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 27,
+    "name": "GAZI TV",
+    "logo": "https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 28,
+    "name": "NAGORIK TV HD",
+    "logo": "https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 29,
+    "name": "Desh TV",
+    "logo": "https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 30,
+    "name": "MY TV HD",
+    "logo": "https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 31,
+    "name": "Mohona Tv",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 32,
+    "name": "Movie Bangla TV",
+    "logo": "https://i.ibb.co/0rPdpW9/MB-TV.jpg",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 33,
+    "name": "Channel S",
+    "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+    "group": "BANGLA",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 34,
+    "name": "Al Jazeera",
+    "logo": "https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg",
+    "group": "English News",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 35,
+    "name": "CNN",
+    "logo": "https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png",
+    "group": "English News",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 36,
+    "name": "BBC World",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png",
+    "group": "English News",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 37,
+    "name": "Sky News",
+    "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+    "group": "English News",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 38,
+    "name": "Peace tv Bangla",
+    "logo": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png",
+    "group": "Islamic",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 39,
+    "name": "Sony YAY",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png",
+    "group": "Kids",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 40,
+    "name": "Duronto TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",
+    "group": "Kids",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 41,
+    "name": "Discovery Hindi",
+    "logo": "https://bdiptv.stream/uploads/tv_image/discovery.png",
+    "group": "Documentary",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 42,
+    "name": "Discovery Hindi",
+    "logo": "https://bdiptv.stream/uploads/tv_image/discovery.png",
+    "group": "Documentary",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 43,
+    "name": "Wild Earth",
+    "logo": "https://i.postimg.cc/sfZsrWst/20240823_023726.png",
+    "group": "Documentary",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 44,
+    "name": "BBC Earth",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",
+    "group": "Documentary",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 45,
+    "name": "REAL WILD",
+    "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+    "group": "Documentary",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 46,
+    "name": "NAT GEO HD",
+    "logo": "https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png",
+    "group": "Documentary",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 47,
+    "name": "Sony Aath",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png",
+    "group": "Indian-Bangla",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 48,
+    "name": "Akash Aath",
+    "logo": "https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj",
+    "group": "Indian-Bangla",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 49,
+    "name": "DD Bangla",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8wJdNPAfkGDb7D52d7HRbJ5hLgCUB7Ss74mStkPgemQ&s",
+    "group": "Indian-Bangla",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 50,
+    "name": "Enter 10 Bangla",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg",
+    "group": "Indian-Bangla",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 51,
+    "name": "Colors Cineplex HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png?20211203010524",
+    "group": "Hindi",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 52,
+    "name": "Colors",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png?20211203010524",
+    "group": "Hindi",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 53,
+    "name": "Bflix Movies",
+    "logo": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg",
+    "group": "Hindi",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 54,
+    "name": "&PICTURES",
+    "logo": "https://www.tsbi.in/wp-content/uploads/2020/10/Webp.net-resizeimage.png",
+    "group": "Hindi",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 55,
+    "name": "Zee Cinema",
+    "logo": "https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg",
+    "group": "Hindi",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 56,
+    "name": "Zee Cinema HD",
+    "logo": "https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg",
+    "group": "Hindi",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 57,
+    "name": "SONY MAX HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png",
+    "group": "Hindi",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 58,
+    "name": "SONY MAX SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png",
+    "group": "Hindi",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 59,
+    "name": "B4U Movies",
+    "logo": "https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg",
+    "group": "Hindi",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 60,
+    "name": "Star Plus",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png",
+    "group": "Hindi",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 61,
+    "name": "Sony Sab",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg",
+    "group": "Hindi",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 62,
+    "name": "Colors",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png",
+    "group": "Hindi",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 63,
+    "name": "Colors HD",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png",
+    "group": "Hindi",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 64,
+    "name": "Colors Rishtey",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Rishtey.png",
+    "group": "Hindi",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 65,
+    "name": "And TV HD",
+    "logo": "https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png",
+    "group": "Hindi",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 66,
+    "name": "Sony Pix",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg",
+    "group": "English Movie",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 67,
+    "name": "Lotus",
+    "logo": "https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",
+    "group": "English Movie",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 68,
+    "name": "HBO",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png",
+    "group": "English Movie",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 69,
+    "name": "Star Movies HD",
+    "logo": "https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",
+    "group": "English Movie",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 70,
+    "name": "Live Sports-1 (FIFA World Cup)",
+    "logo": "http://dds.oncast.me/img/logo/sp1.png",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 71,
+    "name": "Live Sports-2 (FIFA World Cup)",
+    "logo": "http://dds.oncast.me/img/logo/sp2.png",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 72,
+    "name": "Live Sports-3",
+    "logo": "http://dds.oncast.me/img/logo/sp3.png",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 73,
+    "name": "Live Sports-4",
+    "logo": "http://dds.oncast.me/img/logo/sp4.png",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 74,
+    "name": "Live Sports-5",
+    "logo": "http://dds.oncast.me/img/logo/sp5.png",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 75,
+    "name": "T-Sports [1]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 76,
+    "name": "T-Sports [2]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 77,
+    "name": "Star Sports 1",
+    "logo": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 78,
+    "name": "Star Sports-1 Hindi",
+    "logo": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 79,
+    "name": "Willow Extra HD",
+    "logo": "https://aimages.willow.tv/wlo_logo_200_200.jpg",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 80,
+    "name": "FOX Cricket 501",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 81,
+    "name": "BeIN Sports Extra",
+    "logo": "https://static.epg.best/qa/beINSports1.qa.png",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 82,
+    "name": "Cowboy tv",
+    "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 83,
+    "name": "MTR Sports-1",
+    "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 84,
+    "name": "RTA SPORTS",
+    "logo": "https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 85,
+    "name": "Live-1",
+    "logo": "http://dds.oncast.me/img/logo/sp1.png",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 86,
+    "name": "Live-2",
+    "logo": "http://dds.oncast.me/img/logo/sp1.png",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 87,
+    "name": "Live-3",
+    "logo": "http://dds.oncast.me/img/logo/sp1.png",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 88,
+    "name": "Live-4",
+    "logo": "http://dds.oncast.me/img/logo/sp1.png",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 89,
+    "name": "Live-5",
+    "logo": "http://dds.oncast.me/img/logo/sp1.png",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 90,
+    "name": "Live-6",
+    "logo": "http://dds.oncast.me/img/logo/sp1.png",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 91,
+    "name": "Live-7",
+    "logo": "http://dds.oncast.me/img/logo/sp1.png",
+    "group": "SPORTS",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 92,
+    "name": "T Sports",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
+    "group": "Bangla",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 93,
+    "name": "Zee Action",
+    "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+    "group": "Hindi Movies",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 94,
+    "name": "B4U Kadak",
+    "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+    "group": "Hindi Movies",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 95,
+    "name": "Colors Cineplex",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png",
+    "group": "Hindi Movies",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 96,
+    "name": "Colors Cineplex HD",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png",
+    "group": "Hindi Movies",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 97,
+    "name": "And Pictures",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png",
+    "group": "Hindi Movies",
+    "enabled": true,
+    "url": "http://********.***"
+  },
+  {
+    "id": 98,
+    "name": "Hinde Movies 2",
+    "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+    "group": "Hindi Movies",
+    "enabled": true,
+    "url": "https://********.***"
+  },
+  {
+    "id": 99,
+    "name": "Goldminnes Action",
+    "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+    "group": "GOLDMINES",
+    "enabled": true,
+    "url": "http://********.***"
   }
 ]
